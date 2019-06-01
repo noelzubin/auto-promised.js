@@ -1,0 +1,3 @@
+# auto.js
+
+[MIT](LICENSE).
