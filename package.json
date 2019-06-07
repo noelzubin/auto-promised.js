@@ -1,5 +1,11 @@
 {
   "name": "auto-promised",
+  "description": "async.auto for promises",
+  "author": "Noel Zubin Victor <noelzubinvictor@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noelzubin/auto-promised.js"
+  },
   "version": "0.0.2",
   "main": "dist/auto.cjs.js",
   "module": "dist/auto.esm.js",
