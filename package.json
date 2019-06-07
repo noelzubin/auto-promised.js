@@ -1,6 +1,6 @@
 {
-  "name": "auto",
-  "version": "1.0.0",
+  "name": "auto-promised",
+  "version": "0.0.2",
   "main": "dist/auto.cjs.js",
   "module": "dist/auto.esm.js",
   "browser": "dist/auto.umd.js",
@@ -8,7 +8,6 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
-    "lodash": "^4.17.11",
     "mocha": "^6.1.4",
     "rollup": "^1.0.0",
     "rollup-plugin-commonjs": "^9.2.0",
